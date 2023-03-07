@@ -55,6 +55,11 @@ https://user-images.githubusercontent.com/4397546/222513483-89161f58-83d0-40e4-8
 
 - [ ] training code of each componments.
 
+### Docker
+```sh
+docker build -t sadtalker:v1.0.0 .
+docker-compose run --rm local bash
+```
 
 ## **Test**
 
